@@ -161,8 +161,10 @@ lr_flutter_deploy/
 - A display area to show the predicted pH value or error messages.
 
 ### **Screenshots**
-![App Screenshot 1](https://via.placeholder.com/300x600.png?text=Input+Screen)
-![App Screenshot 2](https://via.placeholder.com/300x600.png?text=Prediction+Result)
+![App Screenshot 1]![alt text](image.png)
+![App Screenshot 2](![alt text](image-1.png))
+![App Screenshot 3]![alt text](image-2.png)
+![App Screenshot 4]![alt text](image-3.png)
 
 ---
 
