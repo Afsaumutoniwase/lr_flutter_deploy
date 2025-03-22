@@ -84,8 +84,8 @@ lr_flutter_deploy/
 ### **Running the API**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/mathematics_for_ml_summative.git
-   cd mathematics_for_ml_summative/API
+   git clone https://github.com/your-username/lr_flutter_deploy.git
+   cd lr_flutter_deploy
    ```
 
 2. Install dependencies:
@@ -95,12 +95,12 @@ lr_flutter_deploy/
 
 3. Run the API:
    ```bash
-   uvicorn prediction:app --host 0.0.0.0 --port 8000
+   uvicorn prediction:app --host 0.0.0.0 --port 8080
    ```
 
 4. Access the API documentation:
-   - Swagger UI: [http://localhost:8000/docs](http://localhost:8000/docs)
-   - ReDoc: [http://localhost:8000/redoc](http://localhost:8000/redoc)
+   - Swagger UI: [http://localhost:8080/docs](http://localhost:8080/docs)
+   - ReDoc: [http://localhost:8080/redoc](http://localhost:8080/redoc)
 
 ---
 
@@ -109,7 +109,7 @@ lr_flutter_deploy/
 
 2. Navigate to the Flutter app directory:
    ```bash
-   cd mathematics_for_ml_summative/FlutterApp
+   cd lr_flutter_deploy
    ```
 
 3. Install dependencies:
