@@ -161,15 +161,15 @@ lr_flutter_deploy/
 - A display area to show the predicted pH value or error messages.
 
 ### **Screenshots**
-![App Screenshot 1]![alt text](image.png)
-![App Screenshot 2](![alt text](image-1.png))
-![App Screenshot 3]![alt text](image-2.png)
-![App Screenshot 4]![alt text](image-3.png)
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
+![alt text](image-3.png)
 
 ---
 
 ## **Video Demo**
-Watch the video demo on YouTube: [Hydroponic pH Prediction Demo](https://youtu.be/your-video-id)
+Watch the video demo on YouTube: [Hydroponic pH Prediction Demo](https://youtu.be/JKNfnWoeHio)
 
 ---
 
